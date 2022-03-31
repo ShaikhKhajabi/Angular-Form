@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~ngx-bootstrap/datepicker/bs-datepicker.css";
+
+.form-group{
+    margin-top:8px;
+    margin-bottom:8px;
+}
+
+.form-control{
+    margin-top:5px;
+    margin-bottom:5px;
+}
