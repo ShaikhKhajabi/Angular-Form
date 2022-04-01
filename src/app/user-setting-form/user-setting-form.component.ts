@@ -1,4 +1,4 @@
-import { Time } from '@angular/common';
+
 import { Component, OnInit } from '@angular/core';
 import { NgForm, NgModel } from '@angular/forms';
 import { Observable } from 'rxjs';
@@ -60,7 +60,7 @@ export class UserSettingFormComponent implements OnInit {
     }
     else {
     this.postError = true;
-     this.postErrorMessage = "please fix the errors...!"
+     this.postErrorMessage = "please fix the errors."
     }
   }
 
