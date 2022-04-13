@@ -8,7 +8,7 @@ import { TimepickerModule } from 'ngx-bootstrap/timepicker';
 import { RatingModule } from 'ngx-bootstrap/rating';
 
 import { AppComponent } from './app.component';
-import { UserSettingFormComponent } from './user-setting-form/user-setting-form.component';
+import { UserSettingFormComponent } from './user-settings-form/user-setting-form.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
